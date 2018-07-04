@@ -23,7 +23,7 @@ import jlibudev.Udev;
 import jlibudev.UdevDevice;
 import jlibudev.UdevMonitor;
 import jlibudev.jlibUdev;
-import jtermios.FDSet;
+import jtermios.JTermios.FDSet;
 import jtermios.JTermios;
 import jtermios.TimeVal;
 

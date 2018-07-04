@@ -20,7 +20,7 @@
 package jlibudev.monitor;
 
 import jlibudev.*;
-import jtermios.FDSet;
+import jtermios.JTermios.FDSet;
 import jtermios.JTermios;
 import jtermios.TimeVal;
 import org.apache.log4j.Logger;
